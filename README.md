@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Thiha 👋
 
-<!--
-**thiha-kyaw-zaw/thiha-kyaw-zaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science Graduate
+📍 Based in the UK
+💡 Interested in Machine Learning, Data Analytics & Healthcare AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* MSc Data Science graduate from University of Sheffield
+* Strong interest in applying machine learning to real-world problems
+* Focus on healthcare analytics, recommender systems, and data-driven solutions
+* Experience with Python, SQL, Power BI, Tableau, AWS & Databricks
+
+---
